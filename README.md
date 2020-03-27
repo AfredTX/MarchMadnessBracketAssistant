@@ -1,0 +1,2 @@
+# MarchMadnessBracketAssistant
+Missing sports during the lockdown? Me too. While bracketology mayhem may have to wait til next year you can still have some fun imagining what classic matchups might have unfolded using this neat dashboard! The dashboard is powered by data scraped from Fox Sports, and allows the user to compare each team's performance in the advanced statistics most closely correlated with winning in the 2019-20 NCAA Basketball season.
